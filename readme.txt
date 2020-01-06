@@ -1,1 +1,1 @@
-lxz learn git
+lxz2 learn git
